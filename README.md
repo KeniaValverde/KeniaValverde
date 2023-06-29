@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python and Django.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: in twitter as @AteneaCode, and LinkedIn KeniaValverde
+- Website: wwww.ateneacode.com
+- Freecodecamp: https://www.freecodecamp.org/KeniaValverde
 
 <!---
 KeniaValverde/KeniaValverde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
