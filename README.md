@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Django.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: in twitter as @AteneaCode, and LinkedIn KeniaValverde
-- Website: wwww.ateneacode.com
+- Website: www.ateneacode.com
 - Freecodecamp: https://www.freecodecamp.org/KeniaValverde
 
 <!---
